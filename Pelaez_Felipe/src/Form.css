@@ -1,0 +1,19 @@
+form
+{
+    border-style:outset;
+    height: 15vw;
+}
+
+button
+{
+ position: relative;
+ top: 7vw;
+ right: 17.5rem;
+}
+
+.error
+{
+ position: relative;
+ top: 10vw;
+ color: red;
+}
