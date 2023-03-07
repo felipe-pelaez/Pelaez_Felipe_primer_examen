@@ -17,3 +17,15 @@ button
  top: 10vw;
  color: red;
 }
+
+input
+{
+    position: relative;
+    left: 3vw;
+}
+
+label
+{
+    position: relative;
+    left: 3vw;
+}
