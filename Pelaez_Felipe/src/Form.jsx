@@ -17,6 +17,7 @@ const Form = () => {
             setErr(false)
         } else {
             setErr(true)
+            setShow(false)
         }
 
     }
